@@ -7,10 +7,6 @@
 * EDGAR ARNOLDO ALDANA ARRIOLA      201602797
 * SERGIO ALEJANDRO SILVA ROLDÁN     201610657
 
-## LINK A LA DOCUMENTACIÓN
-
-https://docs.google.com/document/d/15_Obmxw9ys0KBMgs-1maLSxJ9rWmSJU9djNpSHveZLY/edit?usp=sharing
-
 # RED DE GENOVIA
 
 ## DESCRIPCIÓN
