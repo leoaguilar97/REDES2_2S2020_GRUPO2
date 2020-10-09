@@ -1,7 +1,15 @@
 
-# PROYECTO 1
-## REDES 2 
-## GRUPO #2
+# PROYECTO 1 - REDES 2 - GRUPO #2
+
+## INTEGRANTES
+
+* LUIS LEONEL AGUILAR SÁNCHEZ       201603029
+* EDGAR ARNOLDO ALDANA ARRIOLA      201602797
+* SERGIO ALEJANDRO SILVA ROLDÁN     201610657
+
+## LINK A LA DOCUMENTACIÓN
+
+https://docs.google.com/document/d/15_Obmxw9ys0KBMgs-1maLSxJ9rWmSJU9djNpSHveZLY/edit?usp=sharing
 
 # RED DE GENOVIA
 
@@ -35,8 +43,3 @@ distribuidos de la manera que usted considere prudente.)
 departamentos de 2 personas cada departamento, y que se configure mediante un
 enrutamiento estático.
 
-## INTEGRANTES
-
-* LUIS LEONEL AGUILAR SÁNCHEZ
-* EDGAR ARNOLDO ALDANA ARRIOLA
-* SERGIO ALEJANDRO SILVA ROLDÁN
